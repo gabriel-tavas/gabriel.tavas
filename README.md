@@ -1,6 +1,6 @@
 # gabriel.tavas
 
-<mark>As part of the Master in Design for Distributed Innovation (MDDI), my teammates and I are creating an eating utensil that is made from all natural materials. Currently, I am preparing to make one version with agar as the matrix, linen/flax as the reinforcer, and glycerol as the plasticizer.</mark>
+<mark >As part of the Master in Design for Distributed Innovation (MDDI) program, my teammates and I are creating an eating utensil that is made from all natural materials. Currently, I am preparing to make one version with agar as the matrix, linen/flax as the reinforcer, and glycerol as the plasticizer.</mark>
 
 The first step in this process is to create the agar solution. To do this, you will need to:
 
